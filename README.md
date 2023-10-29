@@ -1,0 +1,2 @@
+# NextJS Metamask python auth
+ 
